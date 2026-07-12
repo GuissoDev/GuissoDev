@@ -28,8 +28,7 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuissoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuissoDev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuissoDev&theme=dracula&hide_border=true"/>
 </div>
 
 ---
