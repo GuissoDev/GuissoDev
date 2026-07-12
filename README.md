@@ -2,7 +2,16 @@
 
 **`Desenvolvedor de Apps`**
 
-Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná. Estou cursando o ultimo ano do ensino médio no 5°CPM. Atualmente, trabalho na área de desenvolvimento de aplicativos. Sou apaixonado por tecnologia e compartilho minha rotina como Dev através do meu Instagram, com o perfil chamado "[adryanguisso01](https://www.instagram.com/adryanguisso01/)".
+Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná. Estou cursando o ultimo ano do ensino médio no 5°CPM. Atualmente, trabalho na área de desenvolvimento de aplicativos. Sou apaixonado por tecnologia e compartilho minha rotina como Dev através do meu Instagram! 👇
+
+<div align="center">
+  <a href="https://www.instagram.com/adryanguisso01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@adryanguisso01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/5545999294666" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-(45)_99929--4666-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
 
 ---
 
@@ -25,15 +34,11 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 
 ---
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuissoDev&theme=dracula&hide_border=true"/>
 </div>
 
 ---
-
-### 🐍 Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake-dark.svg">
