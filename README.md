@@ -1,8 +1,8 @@
 # 🧑‍💻 GuissoDev
 
-**`Desenvolvedor de Apps`**
+**`Desenvolvedor de Sites e Aplicativos`**
 
-Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná. Estou cursando o ultimo ano do ensino médio no 5°CPM. Atualmente, trabalho na área de desenvolvimento de aplicativos. Sou apaixonado por tecnologia e compartilho minha rotina como Dev através do meu Instagram! 👇
+Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná. Estou cursando o ultimo ano do ensino médio no 5°CPM. Atualmente, trabalho na área de desenvolvimento de sites e aplicativos. Sou apaixonado por tecnologia e compartilho minha rotina como Dev através do meu Instagram! 👇
 
 <div align="center">
   <a href="https://www.instagram.com/adryanguisso01/" target="_blank">
