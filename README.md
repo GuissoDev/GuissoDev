@@ -15,19 +15,27 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <div>
   <img align="left" alt="Kotlin" title="Kotlin" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />          
   <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="left" alt="Eclipse" title="Eclipse" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="left" alt="C#" title="C#" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="left" alt="Android" title="Android" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-  <img align="left" alt="Android Studio" title="Android Studio" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img align="left" alt="AWS" title="AWS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />          
-</div>
 
 <br/>
+<br/>
+
+---
+
+### 🖥️ Tecnologias
+
+  <img align="left" alt="AWS" title="AWS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="left" alt="Android Studio" title="Android Studio" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /> 
+  <img align="left" alt="Android" title="Android" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />         
+</div>
+  <img align="left" alt="Eclipse" title="Eclipse" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  
+  <br/>
 <br/>
 
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -46,6 +54,7 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 - [**Java-App_de_Ofertas**](https://github.com/GuissoDev/Java-App_de_Ofertas)
 - [**App de Conversa Cliente/Suporte**](https://github.com/GuissoDev/App-de-Conversa-Cliente-Suporte)
 - [**Página para Pizzaria & Lanchonete**](https://github.com/GuissoDev/Pagina-para-Pizzaria-e-Lanchonete.git)
+- [**Página para Assistência de Maquina de Lavar**](https://github.com/GuissoDev/Pagina-para-Assistencia-de-Maquina-de-Lavar.git)
 
 ---
 
