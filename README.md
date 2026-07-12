@@ -37,9 +37,7 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
   <img align="left" alt="Android" title="Android" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />         
 </div>
   <img align="left" alt="Eclipse" title="Eclipse" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  
-  <br/>
-<br/>
+  <img align="left" alt="VSC" title="VSC" width="40px" style="padding-right: 10px;" src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" />
 
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
