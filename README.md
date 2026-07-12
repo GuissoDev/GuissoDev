@@ -41,6 +41,15 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 
 ---
 
+### 📁 Meu Portfólio
+
+- [**Java-App_de_Ofertas**](https://github.com/GuissoDev/Java-App_de_Ofertas)
+- [**App de Conversa Cliente/Suporte**](https://github.com/GuissoDev/App-de-Conversa-Cliente-Suporte)
+
+---
+
+### 🐍 Minhas Contribuições
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake-dark.svg">
