@@ -28,14 +28,16 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuissoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuissoDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuissoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuissoDev&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 </div>
 
 ---
 
 ### 🐍 Minhas Contribuições
 
-<div align="center">
-  <img alt="Snake animation" src="https://github.com/GuissoDev/GuissoDev/raw/output/github-contribution-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake.svg" />
+</picture>
