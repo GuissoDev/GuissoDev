@@ -36,12 +36,20 @@ Me chamo Adryan Emanuel da Rocha Guisso, tenho 18 anos e sou natural do Paraná.
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuissoDev&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJwenAxMmw5bXdwaG9sdW5idzY5ejRiOXl2ajV1aDgwNXRlZTN4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="GIF Animado"/>
 </div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/GuissoDev/GuissoDev/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <br/>
+  <br/>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxc3lvbmNwbW50aWg4OWJ6N3RodmZ2anV1bHY4MzA1eXYyNXdpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3diu2dFNpV8AnozJ3V/giphy.gif" alt="GIF Decorativo" />
+</div>
